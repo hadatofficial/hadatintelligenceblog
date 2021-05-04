@@ -18,7 +18,7 @@ MEDIA_ROOT=os.path.join(BASE_DIR,'media/')
 
 TEMPLATES_DIR=os.path.join(BASE_DIR,'templates')
 
-SECRET_KEY = 'django-insecure-6%t$5q#y@7933-&1f%5zq&wamqg3uunto6kowicdw-^lfxljx='
+SECRET_KEY ='secret_key'
 
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
